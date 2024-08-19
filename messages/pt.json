@@ -1,0 +1,53 @@
+{
+    "Home":{
+       "title":" Alexandrita Token",
+       "by":"Por PR Ativos",
+       "description":"Cada token está disponível por U$ 50,000 USD.",
+       "interest":"💰 Estou interessado",
+       "link": "#"
+    },
+    "Features":{
+       "title":"Sobre o Token",
+       "paragraph":"Desbloqueie a beleza e o potencial das gemas de Alexandrita brutas com nosso token digital exclusivo. Com preço de $50,000 USD, cada token concede a você uma participação nesse tesouro raro, respaldado por seu atrativo atemporal e potencial de investimento. Desfrute do benefício adicional de uma taxa de juros de 25% sobre seu investimento."
+    },
+    "VideoToken":{
+       "title":"Vídeo da Alexandrita",
+       "paragraph":"",
+       "videoId":"lQkLBvRwHEg"
+    },
+    "AboutSectionOne":{
+       "title":"As pedras têm um peso bruto de 4,000g",
+       "paragraph":"Classificado como Gema Pura na Tabela Internacional de Graduação de Pureza da Gema de Alexandrita"
+    },
+    "AboutSectionTwo":{
+       "title":"Como o processo funciona",
+       "step-1-title":"Preencha o formulário",
+       "step-1-description":"Preencha o formulário com os dados necessários para criar o contrato.",
+       "step-2-title":"Pagamento e comprovante de pagamento",
+       "step-2-description":"Pague pelo token, mantenha o comprovante de pagamento e o token será criado junto com o contrato.",
+       "step-3-title":"Contrato e Criação do Token",
+       "step-3-description-1":"Pague pelo token, mantenha o comprovante de pagamento e o token será criado junto com o contrato.",
+       "step-3-description-2":"Assine o contrato e envie para token@prbusiness.com.br",
+       "step-3-description-3":"O contrato é apenas uma formalidade. Você pode simplesmente pagar pelo Token aceitando os Termos e Condições Gerais associados a ele. É um contrato em si.",
+       "step-4-title":"Resgate do Token",
+       "step-4-description":"Após a Alexandrita ser monetizada, o token pode ser resgatado com juros de 25% sobre o valor investido."
+    },
+    "Blog": {
+      "title": "Documentos Importantes",
+      "interested": "Estou interessado",
+      "interested-link": "#",
+      "appraisal": "Relatório de Avaliação da Alexandrita",
+      "certificate": "Certificado de Origem e Propriedade",
+      "contractual": "Amostra dos Termos e Condições Contratuais",
+      "contractual-link": "#",
+      "monetization": "Processo de Monetização de Ativos"
+    },
+    "Header": {
+      "title": "Alexandrita Token",
+      "form-title": "Formulário para o Token",
+      "form-link": "#"
+    },
+    "Footer": {
+      "title": "Alexandrita Token"
+    }
+ }

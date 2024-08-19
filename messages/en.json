@@ -1,0 +1,53 @@
+{
+    "Home":{
+       "title":"Alexandrite Token",
+       "by":"By PR Ativos",
+       "description":"Each token is available for U$ 50,000 USD.",
+       "interest":"💰 I'm interested",
+       "link": "#"
+    },
+    "Features":{
+       "title":"About the Token",
+       "paragraph":"Unlock the beauty and potential of raw alexandrite gemstones with our exclusive digital token. Priced at $50,000 USD, each token grants you a stake in this rare treasure, backed by its timeless allure and investment potential. Enjoy the added benefit of a 25% interest rate on your investment."
+    },
+    "VideoToken":{
+       "title":"Video of Alexandrite",
+       "paragraph":"",
+       "videoId":"lQkLBvRwHEg"
+    },
+    "AboutSectionOne":{
+       "title":"The stones have a gross weight of 4,000g",
+       "paragraph":"Rated as Pure Gem on the International Table Gradation of Purity of Alexandrite Gemstone"
+    },
+    "AboutSectionTwo":{
+       "title": "How the process works",
+       "step-1-title":"Fill the form",
+       "step-1-description":"Fill in the form with the necessary data to create the contract.",
+       "step-2-title":"Payment and proof of payment",
+       "step-2-description":"Pay for the token, keep the proof of payment and the token will be created along with the contract.",
+       "step-3-title":"Contract and Creation of the Token",
+       "step-3-description-1":"Pay for the token, keep the proof of payment and the token will be created along with the contract.",
+       "step-3-description-2":"Sign the contract and send it to token@prbusiness.com.br",
+       "step-3-description-3":"The contract is just a formality. You can just pay for the Token accepting the General Terms and Conditions associated to it. It is a contract for itself.",
+       "step-4-title":"Rescue of the Token",
+       "step-4-description":"After Alexandrite is monetized, the token can be redeemed with an interest of 25% on the amount invested"
+    },
+    "Blog": {
+      "title": "Relevant Documents",
+      "interested": "I am interested",
+      "interested-link": "#",
+      "appraisal": "Alexandrite Appraisal Report",
+      "certificate": "Certificate of Origin and Ownership",
+      "contractual": "Sample of Contractual Terms and Conditions",
+      "contractual-link": "#",
+      "monetization": "Asset Monetization Process"
+    },
+    "Header": {
+      "title": "Alexandrite Token",
+      "form-title": "Form for the Token",
+      "form-link": "#"
+    },
+    "Footer": {
+      "title": "Alexandrite Token"
+    }
+ }

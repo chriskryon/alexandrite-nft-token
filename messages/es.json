@@ -1,0 +1,53 @@
+{
+    "Home":{
+       "title":"Alejandrita Token",
+       "by":"Por PR Ativos",
+       "description":"Cada token está disponible por U$ 50,000 USD.",
+       "interest":"💰 Estoy interesado",
+       "link": "#"
+    },
+    "Features":{
+       "title":"Sobre la Token",
+       "paragraph":"Desbloquea la belleza y el potencial de las piedras preciosas de alejandrita en bruto con nuestro exclusivo token digital. Con un precio de $50,000 USD, cada token te otorga una participación en este tesoro raro, respaldado por su atractivo atemporal y su potencial de inversión. Disfruta del beneficio adicional de una tasa de interés del 25% en tu inversión."
+    },
+    "VideoToken":{
+       "title":"Video de Alejandrita",
+       "paragraph":"",
+       "videoId":"lQkLBvRwHEg"
+    },
+    "AboutSectionOne":{
+       "title":"Las piedras tienen un peso bruto de 4,000g",
+       "paragraph":"Clasificadas como Gema Pura en la Tabla Internacional de Gradación de Pureza de la Piedra Preciosa de Alejandrita"
+    },
+    "AboutSectionTwo": {
+       "title":"Cómo funciona el proceso",
+       "step-1-title":"Rellena el formulario",
+       "step-1-description":"Completa el formulario con los datos necesarios para crear el contrato.",
+       "step-2-title":"Pago y comprobante de pago",
+       "step-2-description":"Paga por el token, conserva el comprobante de pago y el token será creado junto con el contrato.",
+       "step-3-title":"Contrato y Creación del Token",
+       "step-3-description-1":"Paga por el token, conserva el comprobante de pago y el token será creado junto con el contrato.",
+       "step-3-description-2":"Firma el contrato y envíalo a token@prbusiness.com.br",
+       "step-3-description-3":"El contrato es solo una formalidad. Puedes simplemente pagar por el Token aceptando los Términos y Condiciones Generales asociados a él. Es un contrato en sí mismo.",
+       "step-4-title":"Rescate del Token",
+       "step-4-description":"Después de que la Alejandrita se monetice, el token se puede canjear con un interés del 25% sobre la cantidad invertida"
+    },
+      "Blog": {
+          "title": "Documentos Importantes",
+          "interested": "Estoy interesado",
+          "interested-link": "#",
+          "appraisal": "Informe de Evaluación de la Alejandrita",
+          "certificate": "Certificado de Origen y Propiedad",
+          "contractual": "Muestra de Términos y Condiciones Contractuales",
+          "contractual-link": "#",
+          "monetization": "Proceso de Monetización de Activos"
+    },
+    "Header": {
+      "title": "Alejandrita Token",
+      "form-title": "Formulário de Token",
+      "form-link": "#"
+    },
+    "Footer": {
+      "title": "Alejandrita Token"
+    }
+ }
