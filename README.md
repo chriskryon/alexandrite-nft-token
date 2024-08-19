@@ -3,6 +3,11 @@
 ### **Overview**
 This Next.js application is a study project for tokenizing real-world assets. It provides a user-friendly interface for users to learn about the tokenized asset and purchase tokens using a compatible cryptocurrency wallet.
 
+### Images
+![Login](repo_imgs/login.png)
+![Home](repo_imgs/home.png)
+![Buy NFT](repo_imgs/buy_nft.png)
+
 
 ### **Key Features**
 * **Informative Landing Page:** Detailed information about the tokenized asset, including its characteristics and benefits.
